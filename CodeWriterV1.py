@@ -1,4 +1,4 @@
-# *** Message Encoder / Decoder Version 1.0 *** #
+# *** Message Encoder / Decoder Version 1.0 (Caesar Cipher)*** #
 
 
 num_to_letter = dict(zip(range(26), "ABCDEFGHIJKLMNOPQRSTUVWXYZ"))
